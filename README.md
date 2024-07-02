@@ -1,5 +1,4 @@
 # Weather Information Project - CodeClause
-![](weather.gif)
 
 ### Demo - Deployed over Github Pages 
 https://github.com/Code-Rachit/CODECLAUS---PROJECTS
