@@ -1,12 +1,8 @@
-# React Weather App - ReactJS Projects
-
+# Weather Information Project - CodeClause
 ![](weather.gif)
 
 ### Demo - Deployed over Github Pages 
-https://ayushkul.github.io/react-weather-app
-
-### Full development Tutorial 
-[Youtube Tutorial - The Indian Dev](https://www.youtube.com/watch?v=_UXycMmVYj0)
+https://github.com/Code-Rachit/CODECLAUS---PROJECTS
 
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
@@ -28,11 +24,4 @@ https://openweathermap.org/current
 
 ### Whom do I talk to? ###
 
-* AyushK : [The Indian Dev](https://www.instagram.com/theindiandev)
-
-### How can I appreciate this repo? ###
-
-* By giving this repo a 🌟
-* By Subscribing : [The Indian Dev](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA) at Youtube
-* By Following : [The Indian Dev](https://www.instagram.com/theindiandev) at Instagram
-
+* Rachit : https://www.linkedin.com/in/rachit-sharma-a43133202/
